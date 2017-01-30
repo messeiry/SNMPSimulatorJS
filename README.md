@@ -1,7 +1,7 @@
 # SNMPSimulatorJS
-APPLICATION NAME:       SNMPSimulatorJS
-DEVELOLPED BY:          MOHAMED ELMESSEIRY, m.messeiry@gmail.com
-APP TRACKING AND URL:   https://github.com/messeiry/SNMPSimulatorJS
+APPLICATION NAME:       SNMPSimulatorJS<br>
+DEVELOLPED BY:          MOHAMED ELMESSEIRY, m.messeiry@gmail.com<br>
+APP TRACKING AND URL:   https://github.com/messeiry/SNMPSimulatorJS<br>
 
 #ABOUT THE APPLICATION: 
 the application main purpose is to simulate an SNMP Agents for Non SNMP Devices, the SNMP Agent is created by configuring the conf files in addition to a list of OID Names and values that can be set in the conf file for teh required value at a current type.
